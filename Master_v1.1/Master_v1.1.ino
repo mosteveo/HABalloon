@@ -18,6 +18,7 @@
 #include <rs_common.h>
 #include <int.h>
 #include <string.h>
+#include "settings.h"
 
 // ############### Hardware Config ######################################
 
